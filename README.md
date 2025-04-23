@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h2 align="left">Hi 👋! You can call me Ji and I'm a tech enthusiast learning web dev & cybersecurity from Malaysia</h2>
 
